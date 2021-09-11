@@ -1,0 +1,2 @@
+# Employee-Registration-Module
+Built using using JSP, Servlet, JDBC and MySQL database. Creating an Employee Registration form using JSP. Submit Employee Registration form with a POST request and URL - /register. After form submission corresponding servlet will get called - EmployeeServlet.java. EmployeeServlet class handles all the request parameters and send it to the EmployeeDao class to save this data to the database.
